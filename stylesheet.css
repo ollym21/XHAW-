@@ -1,0 +1,56 @@
+background {
+background-color: #317cbd;
+}
+
+h1 {
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+h2 {
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    font-style: oblique;
+    height: fit-content;
+    width: 750px;
+    text-decoration: underline;
+
+}
+
+p1 {
+    font-size: small;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+p {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+}
+
+#discounts {
+    height: 350px;
+    width: 750px;
+    background-color: beige;
+
+}
+
+#navigation {
+    height: 250px;
+    width: 750px;
+    background-color: blueviolet;
+    
+}
+
+#heading{
+    height: max-content;
+    width: max-content;
+    background-color: #4e807e;
+
+}
+                                                                                                                                                                                                                                                                                                            
